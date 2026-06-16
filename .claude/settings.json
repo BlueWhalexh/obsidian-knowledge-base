@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Write(D:\\\\OneDrive\\\\Notes\\\\.claude\\\\skills\\\\八股文入库流程.md)",
+      "Edit(D:\\\\OneDrive\\\\Notes\\\\.claude\\\\skills\\\\八股文入库流程.md)",
+      "Write(D:\\\\Document\\\\Notes\\\\.claude\\\\skills\\\\八股文入库流程.md)",
+      "Edit(D:\\\\Document\\\\Notes\\\\.claude\\\\skills\\\\八股文入库流程.md)"
+    ]
+  }
+}

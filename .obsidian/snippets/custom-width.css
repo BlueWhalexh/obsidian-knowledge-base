@@ -1,0 +1,4 @@
+.markdown-preview-view .markdown-preview-sizer,
+.markdown-source-view .cm-sizer {
+  max-width: none !important;
+}

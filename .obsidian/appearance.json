@@ -1,0 +1,11 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Velocity",
+  "baseFontSize": 16,
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "custom-width"
+  ],
+  "baseFontSizeAction": true,
+  "monospaceFontFamily": "Consolas"
+}
